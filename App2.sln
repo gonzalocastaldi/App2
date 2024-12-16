@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buscaminas", "Buscaminas\Buscaminas.csproj", "{527587DD-5160-437C-8E88-989EC652732F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{3BEC480C-B433-4972-84C7-1E148106C5A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{527587DD-5160-437C-8E88-989EC652732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527587DD-5160-437C-8E88-989EC652732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527587DD-5160-437C-8E88-989EC652732F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEC480C-B433-4972-84C7-1E148106C5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEC480C-B433-4972-84C7-1E148106C5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEC480C-B433-4972-84C7-1E148106C5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEC480C-B433-4972-84C7-1E148106C5A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
